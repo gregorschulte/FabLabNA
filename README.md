@@ -1,4 +1,6 @@
-# WorkAdventure Map Starter Kit
+# Fablab Neckar Alb WorkAdventure Map
+
+Modified from  Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
